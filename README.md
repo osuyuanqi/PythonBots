@@ -1,4 +1,4 @@
-# Python Porjects
+# Python Projects
 
 The small projects are for fun, refering the "Complete Python Developer in 2022: Zero to Mastery".
 
@@ -12,4 +12,4 @@ The small projects are for fun, refering the "Complete Python Developer in 2022:
 - password checker: [Have I Been Pwned API](https://haveibeenpwned.com/API/v3)
 - pdf converter: [PyPDF2](https://pythonhosted.org/PyPDF2/)
 - twitter bot: [Tweepy](https://www.tweepy.org/)
-- web scraping: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+- web scrape: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
