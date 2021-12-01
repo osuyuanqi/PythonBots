@@ -1,11 +1,8 @@
 # Python Projects
 
-The small projects are for fun, refering the "Complete Python Developer in 2022: Zero to Mastery".
+Refering to the "Complete Python Developer in 2022: Zero to Mastery".
 
-## Language
-- Python
-
-## Technologies
+## List
 - automation & testing: [Selenium](https://www.selenium.dev/), [ChromeDriver](https://sites.google.com/chromium.org/driver/)
 - image processing: [Pillow](https://pillow.readthedocs.io/en/stable/index.html)
 - email-sender: google usage,pretty useful.
